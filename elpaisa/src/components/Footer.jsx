@@ -41,7 +41,7 @@ const Footer= () =>{
         <div className="fin">
             <cite>
                 Todos los derechos reservados (@) 2020
-                <br />Por Javier Ayala Ochoa
+                <br />Por Javier Ayala Ochoa y Julio Abraham Campos Ochoa
             </cite>
             <address>
                 Desde el IT Jiquilpan
