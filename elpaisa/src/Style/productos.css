@@ -1,0 +1,203 @@
+.productos {
+    width: 100%;
+    position: relative;
+}
+
+.Primero div {
+    -webkit-box-shadow: 0px 0px 10px 0px #000000;
+    -moz-box-shadow: 0px 0px 10px 0px #000000;
+    box-shadow: 0px 0px 10px 0px #000000;
+}
+
+.Segunda div {
+    -webkit-box-shadow: 0px 0px 10px 0px #000000;
+    -moz-box-shadow: 0px 0px 10px 0px #000000;
+    box-shadow: 0px 0px 10px 0px #000000;
+}
+
+
+/*--------------------CONTENIDO  UNO-------------------------------------------------*/
+
+.Primero {
+    width: 100%;
+    height: 360px;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/*-----------------------------------------------*/
+
+.unouno {
+    width: 22%;
+    height: 94%;
+    margin-left: 2.8%;
+    transition: linear 0.5s;
+    border-radius: 5px;
+}
+
+.unouno img {
+    width: 139%;
+    height: 340px;
+    margin-left: -19.5%;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+
+
+/*-----------------------------------------------*/
+
+.unodos {
+    width: 22%;
+    height: 340px;
+    margin-left: 2%;
+    transition: linear 0.5s;
+    border-radius: 5px;
+}
+
+.unodos img {
+    width: 139%;
+    height: 340px;
+    margin-left: -19.5%;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+
+
+/*-----------------------------------------------*/
+
+.unotres {
+    width: 22%;
+    height: 340px;
+    margin-left: 2%;
+    transition: linear 0.5s;
+    border-radius: 5px;
+}
+
+.unotres img {
+    width: 139%;
+    height: 340px;
+    margin-left: -19.5%;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+
+
+/*-----------------------------------------------*/
+
+.Segunda {
+    width: 100%;
+    height: 360px;
+    margin-bottom: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dosuno {
+    width: 22%;
+    height: 340px;
+    margin-left: 2.8%;
+    transition: linear 0.5s;
+    border-radius: 5px;
+}
+
+.dosuno img {
+    width: 139%;
+    height: 340px;
+    margin-left: -19.5%;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+
+
+/*-----------------------------------------------*/
+
+.dosdos {
+    width: 22%;
+    height: 340px;
+    margin-left: 2%;
+    transition: linear 0.5s;
+    border-radius: 5px;
+}
+
+.dosdos img {
+    width: 139%;
+    height: 340px;
+    margin-left: -19.5%;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+
+
+/*-----------------------------------------------*/
+
+.dostres {
+    width: 22%;
+    height: 340px;
+    margin-left: 2%;
+    transition: linear 0.5s;
+    border-radius: 5px;
+}
+
+.dostres img {
+    width: 139%;
+    height: 340px;
+    margin-left: -19.5%;
+    margin-top: -8%;
+    border-radius: 5px;
+}
+
+
+/*----------------TRANSFORMACIONES HOVER -------------------------------*/
+
+.unouno:hover {
+    transform: scale(1.06);
+    -webkit-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+}
+
+.unodos:hover {
+    transform: scale(1.06);
+    -webkit-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+}
+
+.unotres:hover {
+    transform: scale(1.06);
+    -webkit-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+}
+
+.dosuno:hover {
+    transform: scale(1.06);
+    -webkit-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+}
+
+.dosdos:hover {
+    transform: scale(1.06);
+    -webkit-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+}
+
+.dostres:hover {
+    transform: scale(1.06);
+    -webkit-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+    box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 1);
+}
+
+figcaption {
+    font-family: 'Tw Cen MT';
+    font-size: 25px;
+    color: rgb(26, 189, 61);
+    margin-top: 20px;
+}
