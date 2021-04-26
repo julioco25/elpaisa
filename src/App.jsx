@@ -1,4 +1,4 @@
-import './styles/estilos.css';
+import './Style/style.css';
 import Busqueda from './components/Busqueda';
 import Header from './components/Header';
 import Slider from './components/Slider';
