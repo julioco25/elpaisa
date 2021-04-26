@@ -1,0 +1,177 @@
+/*-------------------------------------FOOTER---------------------------------------------------------------*/
+
+.pie {
+    width: 100%;
+    height: 345px;
+    background-color: #040e47;
+}
+
+
+/*-----------------------------------------------*/
+
+.un {
+    width: 30%;
+    height: 250px;
+    margin-left: 5%;
+}
+
+.un img {
+    width: 32%;
+    height: auto;
+    float: left;
+}
+
+.un p {
+    font-family: 'Century Gothic';
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+.a {
+    float: left;
+    margin-top: 25%;
+    margin-left: -30%;
+}
+
+
+/*-----------------------------------------------*/
+
+.do {
+    width: 30%;
+    height: 250px;
+    margin-left: 35%;
+    margin-top: -18.65%;
+}
+
+.do pre {
+    font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    margin-left: -23%;
+    font-family: 'Tw Cen MT';
+    color: white;
+    margin-bottom: 1%;
+    margin-top: 3%;
+}
+
+.do p {
+    font-size: 18px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: -8%;
+    margin-left: -10%;
+}
+
+.im1 img {
+    width: 8%;
+    height: auto;
+    margin-left: -50%;
+    margin-bottom: 0.5%;
+}
+
+.im2 img {
+    width: 8%;
+    height: auto;
+    margin-left: -50%;
+    margin-bottom: 0.5%;
+}
+
+.im3 img {
+    width: 8%;
+    height: auto;
+    margin-left: -50%;
+    margin-bottom: 0.5%;
+}
+
+.im4 img {
+    width: 8%;
+    height: auto;
+    margin-left: -50%;
+    margin-bottom: 0.5%;
+}
+
+.im5 img {
+    width: 8%;
+    height: auto;
+    margin-left: -50%;
+    margin-bottom: 0.5%;
+}
+
+.do img:hover {
+    transform: translateY(-2px);
+}
+
+
+/*-----------------------------------------------*/
+
+.tre {
+    width: 30%;
+    height: 250px;
+    margin-left: 65%;
+    margin-top: -18.65%;
+}
+
+.tre p {
+    font-size: 30px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    margin-right: -4%;
+    margin-top: 1%;
+}
+
+.texto {
+    width: 80%;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0);
+    margin-bottom: 25px;
+    border: 1px solid white;
+    transition: linear 0.1s;
+    float: right;
+}
+
+.texto:hover {
+    width: 81%;
+    height: 41px;
+    border: 0.5px solid white;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.boton {
+    width: 20%;
+    height: 30px;
+    margin-right: 40%;
+    font-family: 'Tw Cen MT';
+    font-size: 20px;
+    border: 1px solid white;
+    transition: linear 0.1s;
+}
+
+.boton:hover {
+    cursor: pointer;
+    width: 21%;
+    height: 31px;
+    border: 0.5px solid white;
+    background-color: rgba(255, 255, 255, .5);
+    color: white;
+}
+
+
+/*-----------------------------------------------*/
+
+.fin {
+    width: 99%;
+    height: 17%;
+    color: white;
+    font-family: 'Tw Cen MT';
+    margin-top: 1%;
+}
+
+hr {
+    width: 96%;
+    height: 0.5px;
+    background-color: #a13d1d;
+    border-color: #a13d1d;
+    margin-top: -0.5%;
+}
