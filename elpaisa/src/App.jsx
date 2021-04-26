@@ -1,21 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import './styles/estilos.css';
+import Busqueda from './components/Busqueda';
+import Header from './components/Header';
+import Slider from './components/Slider';
+import Footer from './components/Footer';
+import Productos from './components/Productos';
 
-import './Style/upnfm.css'
-import Header from './Componentes/Header'
-import Presentador from './Componentes/Presentador'
-import Busqueda from './Componentes/Busqueda';
-import Informacion from './Componentes/Informacion';
-import Footer from './Componentes/Footer'
 function App() {
   return (
-    <div className="App">
-    <Header/>
-    <Presentador/>
-    <Busqueda/>
-    <Informacion/>
-    <Footer/>
-    </div>
+    <main className="react-elpaisa">
+      <Busqueda/>
+      <Header/>
+      <Slider/>
+      <Productos/>
+      <Footer/>
+    </main>
   );
 }
 
