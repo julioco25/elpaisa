@@ -4,7 +4,7 @@ const Header= () =>{
     return(
         <header>
         {/* id="encabezado" */}
-        <figure>
+        <figure className="logo">
             <a href="./MiPaginaWeb.html"><img src="./img/CROQUETAL LOGO.png" alt=""/></a>
         </figure>
         {/* <!--debe tener un seccion--> */}
