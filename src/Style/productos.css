@@ -1,7 +1,19 @@
 .productos {
     width: 100%;
     position: relative;
+    
 }
+.productos p{
+    background-color: rgb(61, 77, 87);
+    font-size: 30px;
+}
+.Segunda p{
+
+        background-color: saddlebrown;
+        font-size: 30px;
+    
+}
+
 
 .Primero div {
     -webkit-box-shadow: 0px 0px 10px 0px #000000;
@@ -20,7 +32,7 @@
 
 .Primero {
     width: 100%;
-    height: 360px;
+    height: 370px;
     margin-bottom: 100px;
     display: flex;
     align-items: center;
@@ -39,10 +51,10 @@
 }
 
 .unouno img {
-    width: 139%;
-    height: 340px;
-    margin-left: -19.5%;
-    margin-top: -8%;
+    
+    height: 320px;
+    margin-left: -10%;
+    margin-top: 0%;
     border-radius: 5px;
 }
 
@@ -58,13 +70,17 @@
 }
 
 .unodos img {
-    width: 139%;
-    height: 340px;
-    margin-left: -19.5%;
-    margin-top: -8%;
+    
+    height: 300px;
+    margin-left: 0%;
+    margin-top: 0%;
     border-radius: 5px;
+    padding-bottom: 10px;
 }
-
+e{
+    color: rgb(43, 180, 8);
+    font-size: 30px;
+}
 
 /*-----------------------------------------------*/
 
@@ -77,10 +93,10 @@
 }
 
 .unotres img {
-    width: 139%;
-    height: 340px;
-    margin-left: -19.5%;
-    margin-top: -8%;
+    
+    width: 180px;
+    margin-left: 0%;
+    margin-top: -2%;
     border-radius: 5px;
 }
 
@@ -89,7 +105,7 @@
 
 .Segunda {
     width: 100%;
-    height: 360px;
+    height: 380px;
     margin-bottom: 110px;
     display: flex;
     align-items: center;
@@ -98,17 +114,17 @@
 
 .dosuno {
     width: 22%;
-    height: 340px;
+    height: 420px;
     margin-left: 2.8%;
     transition: linear 0.5s;
     border-radius: 5px;
 }
 
 .dosuno img {
-    width: 139%;
-    height: 340px;
-    margin-left: -19.5%;
-    margin-top: -8%;
+   
+    height: 330px;
+    margin-left: 0%;
+    margin-top: -3%;
     border-radius: 5px;
 }
 
@@ -117,17 +133,17 @@
 
 .dosdos {
     width: 22%;
-    height: 340px;
+    height: 420px;
     margin-left: 2%;
     transition: linear 0.5s;
     border-radius: 5px;
 }
 
 .dosdos img {
-    width: 139%;
-    height: 340px;
-    margin-left: -19.5%;
-    margin-top: -8%;
+   
+    height: 320px;
+    margin-left: 0;
+    margin-top: -3%;
     border-radius: 5px;
 }
 
@@ -136,17 +152,17 @@
 
 .dostres {
     width: 22%;
-    height: 340px;
+    height: 420px;
     margin-left: 2%;
     transition: linear 0.5s;
     border-radius: 5px;
 }
 
 .dostres img {
-    width: 139%;
-    height: 340px;
-    margin-left: -19.5%;
-    margin-top: -8%;
+    
+    height: 330px;
+    margin-left: 0%;
+    margin-top: -4%;
     border-radius: 5px;
 }
 
@@ -197,7 +213,8 @@
 
 figcaption {
     font-family: 'Tw Cen MT';
+   
     font-size: 25px;
-    color: rgb(26, 189, 61);
+    color: rgb(1, 53, 13);
     margin-top: 20px;
 }
